@@ -89,9 +89,9 @@ help = [
 banner = [
 '<span style="color: yellowgreen;">visitor@terminal.stefanmjoseph:~$</span> Greetings 😊',
 ' &nbsp;',
-"╔═╗═╦═ ╔═ ╔═ ╔══╗ ╔═╗ 	═╦═ ╔ ╗ ╔═╗ ╔═ ╔═╗ ║ ║",
-"╚═╗ ║  ╠═ ╠═ ║══║ ║ ║   ║  ║ ║ ╚═╗ ╠═ ╠═╝ ╠═╣",
-"╚═╝ ║  ╚═ ║  ║  ║ ║ ║ ╚═╝  ╚ ╝ ╚═╝ ╚═ ║   ║ ║",
+"╔═╗═╦═╔═ ╔═ ╔══╗ ╔═╗  ═╦═ ╔ ╗ ╔═╗ ╔═ ╔═╗ ║ ║",
+"╚═╗ ║ ╠═ ╠═ ║══║ ║ ║   ║  ║ ║ ╚═╗ ╠═ ╠═╝ ╠═╣",
+"╚═╝ ║ ╚═ ║  ║  ║ ║ ║ ╚═╝  ╚ ╝ ╚═╝ ╚═ ║   ║ ║",
 '&nbsp;',
 "Hello There!🤖, My name is <span style='color: skyblue;'>STEFAN JOSEPH</span> ",
 '&nbsp',
@@ -121,8 +121,44 @@ references = [
 ];
 
 workexp = [
+//1
+"<u>Lethbridge College Student Association (LCSA) - President of The LCSA</u>",
+"",
+"May 2023 - Current",
+"• Active advocate for the Students at Lethbridge College, built connections and developed relationships with Municipal, Provincial Leaders and other Student Leaders across Canada",
+"• Contributed to the establishment of the ASEC organization, attended goals, leadership and lobby",
+"• Act as the figurehead and public representative for college students.",
 
+"&nbsp",
+"&nbsp",
+//2
+"<u>Lethbridge College Student Association (LCSA) - President of The LCSA</u>",
+"",
+"May 2023 - Current",
+"• Active advocate for the Students at Lethbridge College, built connections and developed relationships with Municipal, Provincial Leaders and other Student Leaders across Canada",
+"• Contributed to the establishment of the ASEC organization, attended goals, leadership and lobby",
+"• Act as the figurehead and public representative for college students.",
 
+  "&nbsp",
+  "&nbsp",
+//3
+"<u>Lethbridge College Student Association (LCSA) - President of The LCSA</u>",
+"",
+"May 2023 - Current",
+"• Active advocate for the Students at Lethbridge College, built connections and developed relationships with Municipal, Provincial Leaders and other Student Leaders across Canada",
+"• Contributed to the establishment of the ASEC organization, attended goals, leadership and lobby",
+"• Act as the figurehead and public representative for college students.",
 
-
+  "&nbsp",
+  "&nbsp",
+//4
+"<u>Lethbridge College Student Association (LCSA) - President of The LCSA</u>",
+"",
+"May 2023 - Current",
+"• Active advocate for the Students at Lethbridge College, built connections and developed relationships with Municipal, Provincial Leaders and other Student Leaders across Canada",
+"• Contributed to the establishment of the ASEC organization, attended goals, leadership and lobby",
+"• Act as the figurehead and public representative for college students.",
+  
+  "&nbsp",
+  "&nbsp",  
 ];
