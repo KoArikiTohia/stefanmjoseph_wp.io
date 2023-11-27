@@ -2,7 +2,6 @@ let linkedin = 'https://www.linkedin.com/in/stefanmjoseph/';
 let instagram ='https://www.instagram.com/stefanmjoseph/';
 let tryhackme= 'https://tryhackme.com/p/KoArikiTohia';
 let existCommands = [
-  'about',
   'banner',
   'certifications',
   'clear',
@@ -10,6 +9,9 @@ let existCommands = [
   'date',
   'help',
   'linkedin',
+  'projects',
+  'references',
+  'resume';
   'social',
   'theme',
   'theme ls',
@@ -19,7 +21,7 @@ let existCommands = [
   'cd ..'
 ];
 
-about = [
+whoami = [
   "&nbsp;",
   "&nbsp;",
   "<span style='color:red;'>01001000 01101001</span> I'm <span style='color: yellow;'>STEFAN JOSEPH </span> ",
@@ -41,7 +43,7 @@ about = [
 ];
 
 social = [
-  'TO open the below social profiles Type the desired one!',
+  'To open the below social profiles Type the desired one!',
   'Example : linkedin',
   '----------------',
   '&nbsp;',
