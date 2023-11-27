@@ -23,7 +23,6 @@ let existCommands = [
 
 whoami = [
   "&nbsp;",
-  "&nbsp;",
   "<span style='color:red;'>01001000 01101001</span> I'm <span style='color: yellow;'>STEFAN JOSEPH </span> ",
   "&nbsp;",
   "I'm a BYU-I Business graduate who is passionate about Cyber Security and connecting",   
@@ -70,15 +69,18 @@ theme = [
 
 
 help = [
-  '<span class="command">about  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        - </span>     <span class="helpdes">about me</span>',
   '<span class="command">banner &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - </span> <span class="helpdes">Display the header</span>',
-  '<span class="command">certificates &nbsp;&nbsp;- </span>  <span class="helpdes">   View IT Certifications</span>',
+  '<span class="command">dertificates &nbsp;&nbsp;- </span>  <span class="helpdes">   View IT Certifications</span>',
   '<span class="command">clear | cls   &nbsp;&nbsp; - </span>  <span class="helpdes">   Clear the teminal</span>',
   '<span class="command">date  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         - </span> <span class="helpdes">    Display the actual date</span>',
   '<span class="command">help  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         - </span>     <span class="helpdes">Check available commands</span>',
+  '<span class="command">project  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        - </span>     <span class="helpdes">Projects I have completed</span>',
+  '<span class="command">references  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        - </span>     <span class="helpdes">References from my curreny and previous employers</span>',
+  '<span class="command">resume  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        - </span>     <span class="helpdes">A resume containing all my work experience</span>',
   '<span class="command">social &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - </span>  <span class="helpdes">   Display social networks</span>',
   '<span class="command">theme    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      - </span>    <span class="helpdes"> Theme configurations</span>',
   '<span class="command">pwd  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          - </span>    <span class="helpdes"> Print present working directory</span>',
+  '<span class="command">whoami  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        - </span>     <span class="helpdes">About me</span>',
   '<br>',
   '[TAB]              Trigger completion',
   '[Ctrl+l]           Clear terminal',
