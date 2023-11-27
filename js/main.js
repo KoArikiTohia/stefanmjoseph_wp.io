@@ -73,6 +73,9 @@ function commander(cmd) {
     case 'whoami':
       loopLines(whoami, 'color margin', 80);
       break;
+    case 'resume':
+      loopLines(resume, 'color margin', 80);
+      break;
     case 'banner':
       loopLines(banner, '', 80);
       break;
