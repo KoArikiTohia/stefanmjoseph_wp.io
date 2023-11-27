@@ -7,17 +7,18 @@ let existCommands = [
   'clear',
   'cls',
   'date',
+  'education',
   'help',
   'linkedin',
   'projects',
   'references',
-  'resume';
   'social',
   'theme',
   'theme ls',
   'theme set',
   'tryhackme',
   'whoami',
+  'workexp',
   'cd ..'
 ];
 
