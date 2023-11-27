@@ -70,8 +70,8 @@ function enterKey(e) {
 
 function commander(cmd) {
   switch (cmd) {
-    case 'about':
-      loopLines(about, 'color margin', 80);
+    case 'whoami':
+      loopLines(whoami, 'color margin', 80);
       break;
     case 'banner':
       loopLines(banner, '', 80);
@@ -84,9 +84,6 @@ function commander(cmd) {
       break;
     case 'date':
       getDate();
-      break;
-    case 'whoami':
-      addLine('visitor@stefanmjoseph.terminal', 'color3', 80);
       break;
     case 'cd ..':
       addLine("<span style='color:red;'>can not change directory persmission denied!!</span><br></br>");
