@@ -1,7 +1,7 @@
 let linkedin = 'https://www.linkedin.com/in/stefanmjoseph/';
 let instagram ='https://www.instagram.com/stefanmjoseph/';
 let tryhackme = 'https://tryhackme.com/p/KoArikiTohia';
-
+let certs = 'https://github.com/KoArikiTohia/stefanmjoseph_wp.io/blob/main/js/resume.pdf';
 let existCommands = [
   'banner',
   'certs', // Add certs
