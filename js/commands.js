@@ -1,7 +1,7 @@
 let linkedin = 'https://www.linkedin.com/in/stefanmjoseph/';
 let instagram ='https://www.instagram.com/stefanmjoseph/';
 let tryhackme = 'https://tryhackme.com/p/KoArikiTohia';
-
+let certs = 'https://github.com/KoArikiTohia/stefanmjoseph_wp.io/blob/main/js/resume.pdf';
 let existCommands = [
   'banner',
   'certs', // Add certs
@@ -100,12 +100,6 @@ banner = [
 '&nbsp;',
 
 'For a list of available commands, type<span class="command">\'help\'</span> ',
-
-];
-
-
-certs =[
-"<a href='https://github.com/KoArikiTohia/stefanmjoseph_wp.io/js/resume.pdf' target="_blank">View My Resume (PDF)</a>"
 
 ];
 
