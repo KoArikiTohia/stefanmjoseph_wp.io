@@ -111,6 +111,9 @@ function commander(cmd) {
     case 'social':
       loopLines(social, 'color margin', 80);
       break;
+    case 'references':
+      loopLines(references, 'color margin', 80);
+      break;  
     case 'linkedin':
       addLine('Opening LinkedIn...', 'color2', 0);
       newTab(linkedin);

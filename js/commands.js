@@ -116,45 +116,45 @@ education = [
 ];
 
 references = [
+//Reference Letter 1
+'<p><a href="resources/Reference Letter1.pdf" target="_blank">Reference Letter 1</a></p>', // Don't delete because it works
+//Reference Letter 2
+'<p><a href="resources/Reference Letter2.pdf" target="_blank">Reference Letter 2</a></p>',
 
-
+'<object data="resources/Reference Letter1.pdf" type="application/pdf" width="800px" height="1000px"> test</object>',
+  
 ];
 
 workexp = [
 //1
 "&nbsp",
-"Cattle Tech Inc – IT Technician",
-"June 2023 - Current",
-"• Conducted hardware installations on clients feedlots (AP’s, Routers, Switches – Ubiquiti & Cambium Networks)",
-" and software installations remote desktop clients (ITSuppotr247, Fusion), antivirus/endpoints (Bitdefender/Sophos) ",
-"• Monitored and managed client’s network. Implemented security policy and network caps on devices (Ubiquiti)",
-"• Learned, implemented, and managed clients firewall and proxy servers (PfSense and AdamOne).",
-
-"&nbsp",
+"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+"|&nbsp <strong>Cattle Tech Inc – IT Technician</strong>",
+"|&nbsp <i>June 2023 - Current</i>",
+"|&nbsp &nbsp • Conducted hardware installations on clients feedlots (AP’s, Routers, Switches – Ubiquiti & Cambium Networks) and software installations remote desktop clients (ITSuppotr247, Fusion), antivirus/endpoints (Bitdefender/Sophos) ",
+"|&nbsp &nbsp • Monitored and managed client’s network. Implemented security policy and network caps on devices (Ubiquiti)",
+"|&nbsp &nbsp • Learned, implemented, and managed clients firewall and proxy servers (PfSense and AdamOne).",
+"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
 //2
-"Lethbridge College Student Association (LCSA) - President of The LCSA",
-"May 2023 - Current",
-"• Active advocate for the Students at Lethbridge College, built connections and developed relationships with Municipal, Provincial Leaders and other Student Leaders across Canada",
-"• Contributed to the establishment of the ASEC organization, attended goals, leadership and lobby",
-"• Act as the figurehead and public representative for college students.",
-
-  "&nbsp",
+"|&nbsp Lethbridge College Student Association (LCSA) - President of The LCSA",
+"|&nbsp May 2023 - Current",
+"|&nbsp • Active advocate for the Students at Lethbridge College, built connections and developed relationships with Municipal, Provincial Leaders and other Student Leaders across Canada",
+"|&nbsp • Contributed to the establishment of the ASEC organization, attended goals, leadership and lobby",
+"|&nbsp • Act as the figurehead and public representative for college students.",
+"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
 //3
-"Lethbridge College Student Association (LCSA) – Student Representative",
-"Oct 2022 - Current",
-"• Act as a medium of communication between the students at the College and the College Board",
-"• Active contributor at Lethbridge Academic Council, the LCSA/LCFA Teaching Excellence Awards Selection Committee,",
-"  the LCSA Food Bank and the Kodiak Athletics Game Day Staff",
-"• Planned and organized multiple student’s events. (Meat Draw, DND Night, Black History Month, Mental and Physica",
-"  Health Wednesdays “Wellness Wednesdays”)",
-
-  "&nbsp",
+"|&nbsp Lethbridge College Student Association (LCSA) – Student Representative",
+"|&nbsp Oct 2022 - Current",
+"|&nbsp • Act as a medium of communication between the students at the College and the College Board",
+"|&nbsp • Active contributor at Lethbridge Academic Council, the LCSA/LCFA Teaching Excellence Awards Selection Committee, the LCSA Food Bank and the Kodiak Athletics Game Day Staff",
+"|&nbsp • Planned and organized multiple student’s events. (Meat Draw, DND Night, Black History Month, Mental and Physica Health Wednesdays “Wellness Wednesdays”)",
+"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
 //4
-"Redherd – Recruiter – 360 Recruiter (Cyber Security Industry)",
-"Nov 2021 - May 2021",
-"• Job Analysis – Analyzing and understanding various client job requirements to enable the creation of job descriptions that give applicants a clear understanding of the position",
-"• Sourcing and profiling candidates – Engaging with potential candidates on multiple platforms and gathering information on their work experience and skillsets",
-"• Screening and Selection – Conducting face to face interviews with candidates to identify personality traits, confirm claimed knowledge, and determine who qualifies for advancement in the job hiring process",
-  
+"|&nbsp Redherd – Recruiter – 360 Recruiter (Cyber Security Industry)",
+"|&nbsp Nov 2021 - May 2021",
+"|&nbsp • Job Analysis – Analyzing and understanding various client job requirements to enable the creation of job descriptions that give applicants a clear understanding of the position",
+"|&nbsp • Sourcing and profiling candidates – Engaging with potential candidates on multiple platforms and gathering information on their work experience and skillsets",
+"|&nbsp • Screening and Selection – Conducting face to face interviews with candidates to identify personality traits, confirm claimed knowledge, and determine who qualifies for advancement in the job hiring process",
+"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",  
   "&nbsp",  
 ];
