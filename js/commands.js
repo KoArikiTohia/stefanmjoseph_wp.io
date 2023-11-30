@@ -106,7 +106,6 @@ banner = [
 
 certs =[
 
-"<embed src='js\resume.pdf' type='application/pdf' width='800' height='1000'>",
 
 
 ];
