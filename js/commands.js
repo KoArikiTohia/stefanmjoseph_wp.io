@@ -106,6 +106,7 @@ banner = [
 
 certs =[
 
+"<embed src='js\resume.pdf' type='application/pdf' width='800' height='1000'>",
 
 
 ];
@@ -122,43 +123,39 @@ references = [
 
 workexp = [
 //1
-"<u>Lethbridge College Student Association (LCSA) - President of The LCSA</u>",
-"",
-"May 2023 - Current",
-"• Active advocate for the Students at Lethbridge College, built connections and developed relationships with Municipal, Provincial Leaders and other Student Leaders across Canada",
-"• Contributed to the establishment of the ASEC organization, attended goals, leadership and lobby",
-"• Act as the figurehead and public representative for college students.",
-
 "&nbsp",
+"Cattle Tech Inc – IT Technician",
+"June 2023 - Current",
+"• Conducted hardware installations on clients feedlots (AP’s, Routers, Switches – Ubiquiti & Cambium Networks)",
+" and software installations remote desktop clients (ITSuppotr247, Fusion), antivirus/endpoints (Bitdefender/Sophos) ",
+"• Monitored and managed client’s network. Implemented security policy and network caps on devices (Ubiquiti)",
+"• Learned, implemented, and managed clients firewall and proxy servers (PfSense and AdamOne).",
+
 "&nbsp",
 //2
-"<u>Lethbridge College Student Association (LCSA) - President of The LCSA</u>",
-"",
+"Lethbridge College Student Association (LCSA) - President of The LCSA",
 "May 2023 - Current",
 "• Active advocate for the Students at Lethbridge College, built connections and developed relationships with Municipal, Provincial Leaders and other Student Leaders across Canada",
 "• Contributed to the establishment of the ASEC organization, attended goals, leadership and lobby",
 "• Act as the figurehead and public representative for college students.",
 
-  "&nbsp",
   "&nbsp",
 //3
-"<u>Lethbridge College Student Association (LCSA) - President of The LCSA</u>",
-"",
-"May 2023 - Current",
-"• Active advocate for the Students at Lethbridge College, built connections and developed relationships with Municipal, Provincial Leaders and other Student Leaders across Canada",
-"• Contributed to the establishment of the ASEC organization, attended goals, leadership and lobby",
-"• Act as the figurehead and public representative for college students.",
+"Lethbridge College Student Association (LCSA) – Student Representative",
+"Oct 2022 - Current",
+"• Act as a medium of communication between the students at the College and the College Board",
+"• Active contributor at Lethbridge Academic Council, the LCSA/LCFA Teaching Excellence Awards Selection Committee,",
+"  the LCSA Food Bank and the Kodiak Athletics Game Day Staff",
+"• Planned and organized multiple student’s events. (Meat Draw, DND Night, Black History Month, Mental and Physica",
+"  Health Wednesdays “Wellness Wednesdays”)",
 
   "&nbsp",
-  "&nbsp",
 //4
-"<u>Lethbridge College Student Association (LCSA) - President of The LCSA</u>",
-"",
-"May 2023 - Current",
-"• Active advocate for the Students at Lethbridge College, built connections and developed relationships with Municipal, Provincial Leaders and other Student Leaders across Canada",
-"• Contributed to the establishment of the ASEC organization, attended goals, leadership and lobby",
-"• Act as the figurehead and public representative for college students.",
+"Redherd – Recruiter – 360 Recruiter (Cyber Security Industry)",
+"Nov 2021 - May 2021",
+"• Job Analysis – Analyzing and understanding various client job requirements to enable the creation of job descriptions that give applicants a clear understanding of the position",
+"• Sourcing and profiling candidates – Engaging with potential candidates on multiple platforms and gathering information on their work experience and skillsets",
+"• Screening and Selection – Conducting face to face interviews with candidates to identify personality traits, confirm claimed knowledge, and determine who qualifies for advancement in the job hiring process",
   
-  "&nbsp",
   "&nbsp",  
 ];

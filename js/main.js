@@ -96,7 +96,10 @@ function commander(cmd) {
       break;
     case 'workexp':
       loopLines(workexp, 'color margin', 80);
-      break;  
+      break;
+    case 'certs':
+      loopLines(certs, 'color margin', 80);
+      break;   
     case 'ls':
       loopLines(help, 'color margin', 80);
       break;
