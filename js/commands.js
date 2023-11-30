@@ -105,7 +105,7 @@ banner = [
 
 
 certs =[
-"<a href='https://github.com/KoArikiTohia/stefanmjoseph_wp.io/edit/main/js/resume.pdf' target="_blank">View My Resume (PDF)</a>"
+"<a href='https://github.com/KoArikiTohia/stefanmjoseph_wp.io/js/resume.pdf' target="_blank">View My Resume (PDF)</a>"
 
 ];
 
