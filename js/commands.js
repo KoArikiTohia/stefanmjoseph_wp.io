@@ -105,9 +105,7 @@ banner = [
 
 
 certs =[
-
-"<embed src='https://github.com/KoArikiTohia/stefanmjoseph_wp.io/blob/main/js/resume.pdf' type='application/pdf' width='800' height='1000'>",
-
+"<a href="resume.pdf" target="_blank">View My Resume (PDF)</a>"
 
 ];
 
