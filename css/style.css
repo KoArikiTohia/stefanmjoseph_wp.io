@@ -4,11 +4,11 @@ body {
   min-height: 99%;
   width: 100%;
   min-width: 550px;
-  font-family: cursor, monospace;
+  font-family: cursor, 'Times New Roman', Times, serif;
   overflow-x: hidden;
-  font-family: 'Fantasque Sans Mono', Fira Mono;
+  font-family: 'Fantasque Sans Mono', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-weight: 500;
-  font-size: larger;
+  font-size: medium;
 }
 #page {
   color: var(--text-color);
@@ -68,7 +68,7 @@ b {
   color: var(--liner-color);
 }
 #liner::before {
-  color: yellowgreen;
+  color: #fe8019;
   content: 'local_host@terminal.stefanmjoseph:~$';
 }
 @keyframes show {
@@ -134,6 +134,9 @@ a:focus {
 
 
 .helpdes{
-  color:bisque;
+  color:#a89984
 }
 
+h1 {
+  font-size: 40px;
+}

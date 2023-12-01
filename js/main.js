@@ -44,7 +44,7 @@ function enterKey(e) {
     commands.push(command.innerHTML);
     git = commands.length;
     addLine(
-      'localhost@terminal.stefanmjoseph:~$ <span class="command">"'+
+      'localhost@terminal.stefanmjoseph:~$ <span class="command">'+
         command.innerHTML +
         '</span>',
       'liner no-animation',
@@ -93,9 +93,6 @@ function commander(cmd) {
       break;
     case 'help':
       loopLines(help, 'color margin', 80);
-      break;
-    case 'workexp':
-      loopLines(workexp, 'color margin', 80);
       break;
     case 'certs':
       loopLines(certs, 'color margin', 80);

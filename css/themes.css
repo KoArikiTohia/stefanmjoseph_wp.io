@@ -1,41 +1,41 @@
 :root {
   /* default dark mode */
-  --text-color: #ebdbb2;
-  --bg-color: #282828;
-  --selection-color: #51975;
-  --cursor-color: #73aad;
-  --command-color: #73bad;
-  --liner-color: #51995;
-  --index-color: #dcdcc;
-  --color2-color: #b8076;
-  --cmd-color: #9cad7;
-  --cmd-shadow: #73aad;
-  --error-color: #fb000;
-  --link-color: #9c834;
-  --link-hover-color: #59975;
-  --link-hover-bg: #211db;
+  --text-color: #8ec07c;
+  --bg-color: #1d2021;
+  --selection-color: #458588;
+  --cursor-color: #fe8019;
+  --command-color: #fb4934;
+  --liner-color: #fe8019;
+  --index-color: #458588;
+  --color2-color: #458588;
+  --cmd-color: #cc241d;;
+  --cmd-shadow: #282828;
+  --error-color: #fabd2f;
+  --link-color: #8ec07c;
+  --link-hover-color: #fb4934;
+  --link-hover-bg: #1d2021;
 }
 
 [data-theme='dark']{
-  --text-color: #ebdbb2;
-  --bg-color:#282828;
-  --selection-color: #ff000;   /* #519975 */
-  --cursor-color: #ebdbb2;                 /*  #73abad; */
-  --command-color: #ebdbb2;
-  --liner-color: #fb4934; /*#519975;*/
-  --index-color: # ; /*#dcdccc;*/
-  --color2-color: #;/* #b89076;*/
-  --cmd-color:#;                /* #73abad;*/
-  --cmd-shadow: #;
+  --text-color: #8ec07c;
+  --bg-color:#1d2021;
+  --selection-color:#458588;   /* #519975 */
+  --cursor-color: #fe8019;                 /*  #73abad; */
+  --command-color: #fb4934;
+  --liner-color: #fe8019; /*#519975;*/
+  --index-color: #458588; /*#dcdccc;*/
+  --color2-color:#458588; ;/* #b89076;*/
+  --cmd-color:#cc241d;                /* #73abad;*/
+  --cmd-shadow: #282828;
   --error-color: #fabd2f;
-  --link-color:  #;/*#9c8394;*/
-  --link-hover-color: #;/* #519975;*/
-  --link-hover-bg: #;
+  --link-color: #8ec07c;/*#9c8394;*/
+  --link-hover-color:#fb4934 ;/* #519975;*/
+  --link-hover-bg: #1d2021;
 }
 
 [data-theme='light']{
-  --text-color: #33415a;
-  --bg-color: #eff3f3;
+  --text-color: #8f3f71;
+  --bg-color: #f2e5bc;
   --selection-color: #308efd;
   --cursor-color: #33415a;
   --command-color: #027474;
