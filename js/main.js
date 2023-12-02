@@ -89,7 +89,7 @@ function commander(cmd) {
       getDate();
       break;
     case 'cd ..':
-      addLine("<span style='color:red;'>can not change directory persmission denied!!</span><br></br>");
+      addLine("<span style='color:#fabd2f;'>Cannot change directory, Persmission Denied!!😈</span><br></br>");
       break;
     case 'help':
       loopLines(help, 'color margin', 80);
@@ -105,6 +105,10 @@ function commander(cmd) {
       loopLines(commands, 'color2', 80);
       addLine('<br>', 'command', 80 * commands.length + 50);
       break;
+    case 'gitrepo':
+      addLine('Opening Github...', 'color2', 0);
+      newTab(gitrepo);
+      break; 
     case 'social':
       loopLines(social, 'color margin', 80);
       break;
@@ -123,18 +127,28 @@ function commander(cmd) {
       addLine('Opening Instagram  . . . .', 'color2', 0);
       newTab(instagram);
       break;
+    case 'facebook':
+      addLine('Opening Facebook . . . .', 'color2', 0);
+      newTab(facebook);
+      break;  
     case 'theme':
       loopLines(theme, 'color margin', 80);
       break;
     case 'theme ls':
       loopLines(themes, 'color margin', 80);
       break;
+    case 'snippet':
+        loopLines(snippet, 'color margin', 80);
+        break;  
     case cmd.startsWith('theme set ') ? cmd : '':
       switchTheme(cmd);
       break;
-    case 'weather':
-      loopLines(help, 'color margin', 80);
-      break;
+    case 'secret':
+      loopLines(secret, 'color margin', 80);
+      break;  
+    case 'projects':
+      loopLines(projects, 'color margin', 80);
+      break; 
     case 'pwd':
       addLine('localhost/stefanmjoseph/terminal', 'color3', 0);
       break;
@@ -223,7 +237,8 @@ function switchTheme(cmd) {
   }
   loopLines(
     [
-      `Theme '${themeTxt}"not found. Try 'theme ls"to see the list of available themes.`,
+
+      'What did you think this would do ???',
     ],
     'color margin',
     80
