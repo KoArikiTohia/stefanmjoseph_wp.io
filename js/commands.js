@@ -154,12 +154,11 @@ resume = [
 projects = [
 
 //Project 1
-'<h3>Project 1</h3>',
+'<h3>Project 1</h3><h4><a href="https://stefanmjoseph.wixsite.com/buzztech" target="_blank">BUZZ TECH Website</a><h4/>',
 'For our UI/UX class we had to create a website that displayed the concepts taught in our',
 'UI/UX design class. I created a website for my fathers business, which displays the services',
-'and gaming computer builds he has created and sold over the years. ',
-'<h4><a href="https://stefanmjoseph.wixsite.com/buzztech">BUZZ TECH Website</a><h4/>',
-
+'and gaming computer builds he has created and sold over the years.',
+'<img src="resources/BUZZ-TECH.png" alt="BUZZ TECH Website" style="width:900px;height:400px;">',
 
 
 
