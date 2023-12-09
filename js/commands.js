@@ -35,20 +35,24 @@ whoami = [
 "&nbsp;",
 
 "Hello my name is <span style='color: #cc241d;'>Stefan Joseph</span>😊 ",
-  
-  "&nbsp;",
+
+"&nbsp;",
+
+'<img src="resources/Professional Headshot.jpg" alt="Professional Headshot" width="500" height="650">',
+
+"&nbsp;",
 
 "I'm a Applied Business Management Graduate from BYU-I. I have a passion ",
 "for Cyber Security and working with people. I'm currently completing my",
-"Computer Information Technology diploma at Lethbridge College",  
+"Computer Information Technology diploma at Lethbridge College.",  
   
-  "&nbsp;",
+"&nbsp;",
 
-"<span style='color: #8f3f71;'>Mission Statement:</span> ",
+"<span style='color: #fb4934;'>Mission Statement:</span> ",
 "<span style='color: #36bddf;'>To develop integrity, to show a greater amount of empathy to all people I</span> ",   
 "<span style='color: #36bddf;'>influence and to strive for constant success even through setbacks.</span>",
   
-  "&nbsp;",
+"&nbsp;",
 
 "<span style='color: #8f3f71;'>Problems are just Opportunities that haven't presented themselves - Wilson Fisk</span>", 
  
@@ -59,7 +63,7 @@ whoami = [
 social = [
   'To open the below social profiles type the desired one or click on the title!',
   'Example : linkedin',
-  '----------------',
+  '═════════════════════',
   '&nbsp;',
   '<a href="https://www.facebook.com/stefan.joseph.399/">Facebook</a>',
   '<a href="https://www.instagram.com/stefanmjoseph/">Instagram</a>',
@@ -90,7 +94,7 @@ help = [
   '<span class="command">history </span>---><span class="helpdes"> View command history</span>',
   '<span class="command">references </span>---><span class="helpdes"> Displays work references</span>',
   '<span class="command">gitrepo </span>---><span class="helpdes"> View my programming work on Github</span>',
-  '<span class="command">resume </span>---><span class="helpdes"> Displays my resume</span>',
+  '<span class="command">resume </span>---><span class="helpdes"> Displays my cover letter and resume</span>',
   '<span class="command">snippet </span>---><span class="helpdes"> Displays a snippet of my prior coding work</span>',
   '<span class="command">social </span>---><span class="helpdes"> Displays my social profile links</span>',
   '<span class="command">theme </span>---><span class="helpdes"> Theme Configuration</span>',
@@ -121,6 +125,8 @@ banner = [
 
 certs =[
 '&nbsp;',
+'Click on one of my certifications to see them:',
+'═════════════════════',
 // eJPT Cert
 '<p><a href="resources/eJPT Certification.pdf" target="_blank">🥷🏽eJPT</a></p>',
 //Malware Cert
@@ -133,8 +139,9 @@ certs =[
 ];
 
 references = [
+'&nbsp;',
 'To open the below Reference Letters Click on the desired one!',
-'----------------', 
+'══════════════════════════════', 
 //Reference Letter 1
 '<p><a href="resources/Reference Letter1.pdf" target="_blank">🌱Reference Letter 1</a></p>', 
 //Reference Letter 2
@@ -147,27 +154,36 @@ resume = [
 '&nbsp;',
 'Click on Resume to be taken to my resume:',
 '═════════════════════',
-'<p><a href="resources/Resume Stefan Joseph.pdf" target="_blank">📝Resume</a></p>'
+'<p><a href="resources/Cover Letter.pdf" target="_blank">📁Cover Letter</a></p>',
+'<p><a href="resources/Resume Stefan Joseph.pdf" target="_blank">📝Resume</a></p>',
 
 ];
 
 projects = [
-
+'&nbsp;',
+'Click on one of my  Projects to see them:',
+'═══════════════════',
 //Project 1
-'<h3>Project 1</h3><h4><a href="https://stefanmjoseph.wixsite.com/buzztech" target="_blank">BUZZ TECH Website</a><h4/>',
+'<h3>Project 1🖥️</h3><h4><a href="https://stefanmjoseph.wixsite.com/buzztech" target="_blank">BUZZ TECH Website</a><h4/>',
 'For our UI/UX class we had to create a website that displayed the concepts taught in our',
 'UI/UX design class. I created a website for my fathers business, which displays the services',
 'and gaming computer builds he has created and sold over the years.',
-'<img src="resources/BUZZ-TECH.png" alt="BUZZ TECH Website" style="width:900px;height:400px;">',
 
+'&nbsp;',
+
+//Project 2
+'<h3>Project 2🛡️</h3><h4><a href="resources/Home VM SIEM Setup.png" target="_blank">HOME SIEM LAB</a><h4/>',
+'This is an image of my home lab, which contains a Windows 11 VM with an elastic agent installed',
+'and "Sysmon" running as a service. The elastic agent records every activity on the Windows 11',
+'machine and feeds it to the Elastic Stack, which subsequently presents the data on my Kibana Elastic Dashboard.',
 
 
 ];
 
+
 snippet = [
 '&nbsp;',
-'<p>Palimdrone code done in C##</p>' ,
-'<img src="resources/codeSnippet.png" alt="Palimdrone Code"></img>',
+'<p>This is a snippet of my Palimdrone code I did in C## ---> <a href="resources/codeSnippet.png" target="_blank">Palimdrone Code</a></p>',
 
 ];
 

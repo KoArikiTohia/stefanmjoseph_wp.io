@@ -35,7 +35,7 @@
 
 [data-theme='light']{
   --text-color: #8f3f71;
-  --bg-color: #f2e5bc;
+  --bg-color: #1d2021;
   --selection-color: #36bddf;
   --cursor-color: #33415a;
   --command-color: #027474;
@@ -47,5 +47,5 @@
   --error-color: #ff818a;
   --link-color: #117dbd;
   --link-hover-color: #308efd;
-  --link-hover-bg: #eff3f3;
+  --link-hover-bg: #1d2021;
 }
