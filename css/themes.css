@@ -1,6 +1,6 @@
 :root {
   /* default dark mode */
-  --text-color: #8ec07c;
+  --text-color: #6cce8a;
   --bg-color: #1d2021;
   --selection-color: #458588;
   --cursor-color: #fe8019;
@@ -17,7 +17,7 @@
 }
 
 [data-theme='dark']{
-  --text-color: #8ec07c;
+  --text-color: #6cce8a; /*8ec07c*/
   --bg-color:#1d2021;
   --selection-color:#458588;   /* #519975 */
   --cursor-color: #fe8019;                 /*  #73abad; */
@@ -34,7 +34,7 @@
 }
 
 [data-theme='light']{
-  --text-color: #8f3f71;
+  --text-color: #a89984;
   --bg-color: #1d2021;
   --selection-color: #36bddf;
   --cursor-color: #33415a;

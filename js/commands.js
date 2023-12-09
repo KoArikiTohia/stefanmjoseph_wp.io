@@ -164,7 +164,7 @@ projects = [
 'Click on one of my  Projects to see them:',
 '═══════════════════',
 //Project 1
-'<h3>Project 1🖥️</h3><h4><a href="https://stefanmjoseph.wixsite.com/buzztech" target="_blank">BUZZ TECH Website</a><h4/>',
+'<h3 style="color: #ff818a;">Project 1🖥️</h3><h4><a href="https://stefanmjoseph.wixsite.com/buzztech" target="_blank">BUZZ TECH Website</a><h4/>',
 'For our UI/UX class we had to create a website that displayed the concepts taught in our',
 'UI/UX design class. I created a website for my fathers business, which displays the services',
 'and gaming computer builds he has created and sold over the years.',
@@ -172,7 +172,7 @@ projects = [
 '&nbsp;',
 
 //Project 2
-'<h3>Project 2🛡️</h3><h4><a href="resources/Home VM SIEM Setup.png" target="_blank">HOME SIEM LAB</a><h4/>',
+'<h3 style="color: #ff818a;">Project 2🛡️</h3><h4><a href="resources/Home VM SIEM Setup.png" target="_blank">HOME SIEM LAB</a><h4/>',
 'This is an image of my home lab, which contains a Windows 11 VM with an elastic agent installed',
 'and "Sysmon" running as a service. The elastic agent records every activity on the Windows 11',
 'machine and feeds it to the Elastic Stack, which subsequently presents the data on my Kibana Elastic Dashboard.',
